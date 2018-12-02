@@ -51,12 +51,12 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
 #             objects have:
 #                center point, radius
 #
-#     f. What does a RoseWindow RENDER method do?
+#    * f. What does a RoseWindow RENDER method do?
 #            WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
 #
 #     g. When is a RoseWindow close_on_mouse_click method call
 #        necessary?  Why?
-#            WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
+#            When making a window or multiple windows to make for easy exit
 #
 #   ASK QUESTIONS ** NOW ** if you do not understand how the
 #     RoseGraphics graphics system works.
