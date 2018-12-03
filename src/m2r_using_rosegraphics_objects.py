@@ -10,7 +10,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
 
 ###############################################################################
 #
-# TODO: 2.
+# DONE: 2.
 #   RUN this program.  Then answer the following,
 #     GETTING HELP AS NEED! (Ask questions!!!)
 #
@@ -30,8 +30,8 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
 #     b. Write a line of code that constructs a RoseWindow object:
 #            window = rg.RoseWindow()
 #
-#    * c. What is the default height of a RoseWindow?
-#        (Use the HOVER trick to determine the answer to this question.)
+#     c. What is the default height of a RoseWindow?
+#        300
 #
 #
 #     d. Write a line of code that construct a RoseWindow object
@@ -44,15 +44,15 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher, Mark Hays,
 #             you can construct OTHER than Circle and Point:
 #                Rectangle, window
 #
-#         * -- Write the names of three METHODs that Circle objects have:
-#
+#          -- Write the names of three METHODs that Circle objects have:
+#               center, radius, fill_color
 #
 #          -- Write the names of three INSTANCE VARIABLEs that Circle
 #             objects have:
-#                center point, radius
+#                pen, attach, fill_color
 #
-#    * f. What does a RoseWindow RENDER method do?
-#            WRITE_YOUR_ANSWER_HERE,_REPLACING_THIS
+#     f. What does a RoseWindow RENDER method do?
+#            Render
 #
 #     g. When is a RoseWindow close_on_mouse_click method call
 #        necessary?  Why?
